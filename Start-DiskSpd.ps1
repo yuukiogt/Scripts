@@ -1,0 +1,1 @@
+﻿diskspd.exe -t2 -o32 -c3G -b4k -r4k -d120 -h -w100 -D -L ($fileName) > $fileName.txt
